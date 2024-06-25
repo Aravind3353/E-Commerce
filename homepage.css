@@ -221,16 +221,16 @@ footer{
 #sec1{
     width: 100vw;
     height: 100vh;
-    /* background: url(AlluArjun.jpg); */
+     background: url(AlluArjun.jpg); 
     background-position: 100% 100%;
     background-size: 100% 100%;
     position: absolute;
     background-repeat: no-repeat;
     background-color: black;
     top: 0%;
-    /* position: absolute; */
+     position: absolute; 
     overflow: hidden;
-    /* filter: brightness(50%); */
+    filter: brightness(50%); 
     animation: trs 35s linear infinite;
 }
 @keyframes trs {
